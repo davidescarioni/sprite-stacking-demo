@@ -1,0 +1,1 @@
+draw_sprite_stacked_3d(sprite_index)

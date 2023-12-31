@@ -1,0 +1,1 @@
+draw_sprite_stacked(sprite_index)

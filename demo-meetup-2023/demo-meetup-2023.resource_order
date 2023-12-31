@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Demo1","order":11,"path":"folders/Demo1.yy",},
+    {"name":"player","order":3,"path":"folders/Demo1/components/player.yy",},
+    {"name":"solid-objects","order":4,"path":"folders/Demo1/components/solid-objects.yy",},
+    {"name":"scripts","order":1,"path":"folders/Demo1/scripts.yy",},
+    {"name":"Demo2","order":12,"path":"folders/Demo2.yy",},
+    {"name":"components","order":1,"path":"folders/Demo2/components.yy",},
+    {"name":"camera","order":2,"path":"folders/Demo2/components/camera.yy",},
+    {"name":"player","order":1,"path":"folders/Demo2/components/player.yy",},
+    {"name":"solid-objects","order":4,"path":"folders/Demo2/components/solid-objects.yy",},
+    {"name":"scripts","order":2,"path":"folders/Demo2/scripts.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_player_demo_2","order":1,"path":"sprites/spr_player_demo_2/spr_player_demo_2.yy",},
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"obj_solid_demo_2","order":1,"path":"objects/obj_solid_demo_2/obj_solid_demo_2.yy",},
+    {"name":"spr_house_demo_2","order":2,"path":"sprites/spr_house_demo_2/spr_house_demo_2.yy",},
+    {"name":"spr_house","order":2,"path":"sprites/spr_house/spr_house.yy",},
+    {"name":"obj_house","order":1,"path":"objects/obj_house/obj_house.yy",},
+    {"name":"rm_room_demo_2","order":1,"path":"rooms/rm_room_demo_2/rm_room_demo_2.yy",},
+    {"name":"src_scripts_demo_2","order":1,"path":"scripts/src_scripts_demo_2/src_scripts_demo_2.yy",},
+  ],
+}
